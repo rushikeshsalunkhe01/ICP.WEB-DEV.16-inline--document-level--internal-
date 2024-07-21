@@ -1,0 +1,32 @@
+/* General Styles */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+/* Header Styles */
+header {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+}
+
+/* Main Content Styles */
+main {
+    background-color: white;
+    color: #333;
+}
+
+/* Section Styles */
+section {
+    background-color: #e0e0e0;
+    color: #333;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+}
